@@ -1,0 +1,17 @@
+strategy-framework/
+├── app/
+│   ├── layout.tsx
+│   └── page.tsx
+├── components/
+│   └── ui/
+│       ├── button.tsx
+│       ├── card.tsx
+│       ├── input.tsx
+│       └── tabs.tsx
+├── public/
+├── styles/
+│   └── globals.css
+├── .gitignore
+├── package.json
+├── tailwind.config.js
+└── tsconfig.json
