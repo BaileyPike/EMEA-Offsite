@@ -1,0 +1,6 @@
+.env
+*.png
+tennis_booker.log
+__pycache__/
+*.pyc
+.venv/
