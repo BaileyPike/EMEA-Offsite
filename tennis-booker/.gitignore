@@ -1,5 +1,5 @@
 .env
-*.png
+screenshots/
 tennis_booker.log
 __pycache__/
 *.pyc
